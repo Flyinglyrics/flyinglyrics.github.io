@@ -1,0 +1,168 @@
+{
+    "proverbs":[
+        {
+            "content":"Three virtues that excellent programmers must possess: Laziness, Impatience and hubris",
+            "signature":{
+                "author": "Larry · Wall",
+                "composition": "《Programming Perl》"
+            }
+        },
+        {
+            "content":"Beautiful is better than ugly. Explicit is better than implicit. Simple is better than complex. Complex is better than complicated...",
+            "signature":{
+                "author":"Tim · Peters",
+                "composition": "《Zen of Python》"
+            }
+        },
+        {
+            "content":"Now is better than never. Although never is often better than right now.",
+            "signature":{
+                "author":"Tim · Peters",
+                "composition": "《Zen of Python》"
+            }
+        },
+        {
+            "content":"Don't go gentle into that good night. Rage, rage at dying of the light.",
+            "signature":{
+                "author": "Dylan · Thomas",
+                "composition": "《Don't go gentle into that good night》"
+            }
+        },
+        {
+            "content":"路漫漫其修远兮，吾将上下而求索。",
+            "signature":{
+                "author":"楚·屈原",
+                "composition":"《离骚》"
+            }
+        },
+        {
+            "content":"The only limit to our realization of tomorrow will be our doubts of today.",
+            "signature":{
+                "author":"Franklin · Roosevelt"
+            }
+        },
+        {
+            "content":"Always remember that you are absolutely unique. Just like everyone else.",
+            "signature":{
+                "author":"Margaret · Mead"
+            }
+        },
+        {
+            "content":"Before we are forgotten, we will be turned into kitsch. Kitsch is the stopover between being and oblivion.",
+            "signature":{
+                "author":"Milan · Kundera",
+                "composition": "《The Unbearable Lightness of Being》"
+            }
+        },
+        {
+            "content":"Love is the longing for the half of ourselves we have lost.",
+            "signature":{
+                "author":"Milan · Kundera",
+                "composition": "《The Unbearable Lightness of Being》"
+            }
+        },
+        {
+            "content":"We might also call vertigo the intoxication of the weak. Aware of his weakness, a man decides to give in rather than stand up to it.He is drunk with weakness, wishes to grow even weaker, wishes to fall down in the middle of the main square in front of everybody, wishes to be down, lower than down.",
+            "signature":{
+                "author":"Milan · Kundera",
+                "composition": "《The Unbearable Lightness of Being》"
+            }
+        },
+        {
+            "content":"When the heart speaks, the mind finds it indecent to object.",
+            "signature":{
+                "author":"Milan · Kundera",
+                "composition": "《The Unbearable Lightness of Being》"
+            }
+        },
+        {
+            "content":"上善若水，水善利万物而不争。",
+            "signature":{
+                "author":"老子",
+                "composition":"《道德经》"
+            }
+        },
+        {
+            "content":"故飘风不终朝，骤雨不终日。孰为此者？天地。天地尚不能久，而况于人乎？",
+            "signature":{
+                "author":"老子",
+                "composition":"《道德经》"
+            }
+        },
+        {
+            "content":"致虚极，守静笃。万物并作，吾以观复。",
+            "signature":{
+                "author":"老子",
+                "composition":"《道德经》"
+            }
+        },
+        {
+            "content":"挫其锐，解其纷，和其光，同其尘。",
+            "signature":{
+                "author":"老子",
+                "composition":"《道德经》"
+            }
+        },
+        {
+            "content":"见素抱朴，少私寡欲。",
+            "signature":{
+                "author":"老子",
+                "composition":"《道德经》"
+            }
+        },
+        {
+            "content":"将欲歙之，必固张之；将欲弱之，必固强之；将欲废之，必固兴之；将欲夺之，必固与之。见素抱朴，少私寡欲。",
+            "signature":{
+                "author":"老子",
+                "composition":"《道德经》"
+            }
+        },
+        {
+            "content":"大方无隅，大器晚成，大音希声，大象无形。",
+            "signature":{
+                "author":"老子",
+                "composition":"《道德经》"
+            }
+        },
+        {
+            "content":"祸兮福之所倚，福兮祸之所伏。",
+            "signature":{
+                "author":"老子",
+                "composition":"《道德经》"
+            }
+        },
+        {
+            "content":"吾生也有涯，而知也无涯。以有涯随无涯，殆矣。",
+            "signature":{
+                "author":"老子",
+                "composition":"《道德经》"
+            }
+        },
+        {
+            "content":"泉涸，鱼相与处于陆，相呴以湿，相濡以沫，不如相忘于江湖。",
+            "signature":{
+                "author":"庄子",
+                "composition":"《庄子·大宗师》"
+            }
+        },
+        {
+            "content":"人生天地之间，若白驹过隙，忽然而已。",
+            "signature":{
+                "author":"庄子",
+                "composition":"《庄子·知北游》"
+            }
+        },
+        {
+            "content":"Imagination is more important than knowledge.",
+            "signature":{
+                "author":"Albert · Einstain"
+            } 
+        },
+        {
+            "content":"Never argue with stupid people, they will drag you down to their level and then beat you with experience.",
+            "signature":{
+                "author":"Mark · Twain"
+            } 
+        }
+    ]
+}
